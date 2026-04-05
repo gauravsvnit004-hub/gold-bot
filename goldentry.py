@@ -8,8 +8,8 @@ import os
 # -----------------------------
 # TELEGRAM SETTINGS
 # -----------------------------
-BOT_TOKEN = os.getenv("BOT_TOKEN")
-CHAT_ID = os.getenv("CHAT_ID")
+BOT_TOKEN = os.getenv("8716087264:AAGUQoucfM4V5S8S_ZrwWtXU6oEXrN0A7Fw")
+CHAT_ID = os.getenv("946243778")
 
 # -----------------------------
 # STRATEGY SETTINGS
