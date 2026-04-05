@@ -144,6 +144,7 @@ Valid for next 3 candles
 # MAIN LOOP
 # -----------------------------
 print("🚀 Bot started...")
+send_telegram("✅ BOT IS LIVE AND WORKING 🚀")
 
 while True:
     check_signal()
