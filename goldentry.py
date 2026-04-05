@@ -7,8 +7,8 @@ import time
 # -----------------------------
 # TELEGRAM SETTINGS
 # -----------------------------
-BOT_TOKEN = "YOUR_BOT_TOKEN"
-CHAT_ID = "YOUR_CHAT_ID"
+BOT_TOKEN = "8716087264:AAGUQoucfM4V5S8S_ZrwWtXU6oEXrN0A7Fw"
+CHAT_ID = "946243778"
 
 # -----------------------------
 # STRATEGY SETTINGS
